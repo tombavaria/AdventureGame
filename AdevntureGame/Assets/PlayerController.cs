@@ -23,6 +23,9 @@ public class PlayerController : MonoBehaviour
     private float yVelocity = 0;
     private bool alive = true;
 
+    public SaveData playerSaveData;
+    public const string startingPositionKey = "starting position";
+
     public enum RotationAxes { MouseXAndY = 0, MouseX = 1, MouseY = 2 }
     public RotationAxes axes = RotationAxes.MouseXAndY;
     public float sensitivityX = 15F;
