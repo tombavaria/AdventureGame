@@ -116,7 +116,7 @@ MonoBehaviour:
   m_MinSize: {x: 917, y: 448}
   m_MaxSize: {x: 22012, y: 10024}
   vertical: 0
-  controlID: 174
+  controlID: 30
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -215,8 +215,8 @@ MonoBehaviour:
     y: 0
     width: 274
     height: 947
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 204, y: 224}
+  m_MaxSize: {x: 4004, y: 4024}
   m_ActualView: {fileID: 17}
   m_Panes:
   - {fileID: 17}
@@ -363,9 +363,9 @@ MonoBehaviour:
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 1.3078847, y: 2.180552, z: 1.0812159}
+    m_Target: {x: -0.29999995, y: 2, z: -3.1}
     speed: 2
-    m_Value: {x: 1.3078847, y: 2.180552, z: 1.0812159}
+    m_Value: {x: -0.29999995, y: 2, z: -3.1}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -397,9 +397,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0.18764682, y: 0.073894, z: -0.01416331, w: 0.97935075}
   m_Size:
-    m_Target: 12.618134
+    m_Target: 22
     speed: 2
-    m_Value: 12.618134
+    m_Value: 22
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -601,9 +601,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 9c60ffff
-      m_LastClickedID: -40804
-      m_ExpandedIDs: 085fffffb05fffff9c60ffffa660ffffa661ffffb861ffffd8f2ffffd4fbffff10900200
+      m_SelectedIDs: bed80000
+      m_LastClickedID: 55486
+      m_ExpandedIDs: 74c7ffffcef7ffffd4fbffffbc530000aed80000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -665,20 +665,20 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/RPG Character Animation Pack FREE/Scenes/RPG-Character
+    - Assets
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/RPG Character Animation Pack FREE/Scenes/RPG-Character
+  - Assets
   m_LastFoldersGridSize: -1
   m_LastProjectPath: D:\tab66\AdventureGame\AdevntureGame
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: fc580000
-    m_LastClickedID: 22780
-    m_ExpandedIDs: 00000000062b00007232000016340000d23900001c3c00002e3d0000ec3e000088440000e044000060460000045900002459000000ca9a3b
+    m_SelectedIDs: 362b0000
+    m_LastClickedID: 11062
+    m_ExpandedIDs: 00000000362b00001e310000a2330000a435000008390000183c0000aa3e0000c43f0000a2410000e847000040480000064a000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -706,7 +706,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000062b0000282d00002c2f0000463000007232000016340000d23900001c3c00002e3d0000ec3e0000e044000060460000
+    m_ExpandedIDs: 00000000362b00001e310000a2330000a435000008390000183c0000aa3e0000c43f0000a2410000e847000040480000064a0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -758,7 +758,7 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
-    m_ScrollPosition: {x: 0, y: 0}
+    m_ScrollPosition: {x: 0, y: 898}
     m_GridSize: 64
   m_DirectoriesAreaWidth: 238
 --- !u!114 &19
