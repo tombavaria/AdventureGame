@@ -112,10 +112,14 @@ MonoBehaviour:
   m_MaxSize: {x: 22012, y: 10021}
   vertical: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
   controlID: 30
 =======
   controlID: 134
 >>>>>>> parent of 87ef4d7a... Not Sure So Hopefully Doesn't Fuck All
+=======
+  controlID: 174
+>>>>>>> parent of 486fa60c... commit
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -211,8 +215,8 @@ MonoBehaviour:
 <<<<<<< HEAD
     width: 274
     height: 947
-  m_MinSize: {x: 204, y: 224}
-  m_MaxSize: {x: 4004, y: 4024}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 17}
 =======
     width: 204
@@ -332,6 +336,7 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_Position:
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_Target: {x: -0.29999995, y: 2, z: -3.1}
     speed: 2
     m_Value: {x: -0.29999995, y: 2, z: -3.1}
@@ -340,6 +345,11 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 283.95667, y: -8.593956, z: 184.98491}
 >>>>>>> parent of 87ef4d7a... Not Sure So Hopefully Doesn't Fuck All
+=======
+    m_Target: {x: 1.3078847, y: 2.180552, z: 1.0812159}
+    speed: 2
+    m_Value: {x: 1.3078847, y: 2.180552, z: 1.0812159}
+>>>>>>> parent of 486fa60c... commit
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -372,6 +382,7 @@ MonoBehaviour:
     m_Value: {x: 0.048120286, y: 0.93591255, z: -0.31931463, w: 0.1407624}
   m_Size:
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_Target: 22
     speed: 2
     m_Value: 22
@@ -380,6 +391,11 @@ MonoBehaviour:
     speed: 2
     m_Value: 421.8318
 >>>>>>> parent of 87ef4d7a... Not Sure So Hopefully Doesn't Fuck All
+=======
+    m_Target: 12.618134
+    speed: 2
+    m_Value: 12.618134
+>>>>>>> parent of 486fa60c... commit
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -579,9 +595,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: bed80000
-      m_LastClickedID: 55486
-      m_ExpandedIDs: 74c7ffffcef7ffffd4fbffffbc530000aed80000
+      m_SelectedIDs: 9c60ffff
+      m_LastClickedID: -40804
+      m_ExpandedIDs: 085fffffb05fffff9c60ffffa660ffffa661ffffb861ffffd8f2ffffd4fbffff10900200
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -673,6 +689,7 @@ MonoBehaviour:
     m_SearchArea: 1
     m_Folders:
 <<<<<<< HEAD
+<<<<<<< HEAD
     - Assets
   m_ViewMode: 1
   m_StartGridSize: 64
@@ -685,6 +702,13 @@ MonoBehaviour:
   m_LastFolders:
   - Assets/Scenes
 >>>>>>> parent of 87ef4d7a... Not Sure So Hopefully Doesn't Fuck All
+=======
+    - Assets/RPG Character Animation Pack FREE/Scenes/RPG-Character
+  m_ViewMode: 1
+  m_StartGridSize: 64
+  m_LastFolders:
+  - Assets/RPG Character Animation Pack FREE/Scenes/RPG-Character
+>>>>>>> parent of 486fa60c... commit
   m_LastFoldersGridSize: -1
   m_LastProjectPath: /Users/laurenwilkins/Documents/GitHub/AdventureGame/AdevntureGame
   m_LockTracker:
@@ -692,6 +716,7 @@ MonoBehaviour:
   m_FolderTreeState:
 <<<<<<< HEAD
     scrollPos: {x: 0, y: 0}
+<<<<<<< HEAD
     m_SelectedIDs: 362b0000
     m_LastClickedID: 11062
     m_ExpandedIDs: 00000000362b00001e310000a2330000a435000008390000183c0000aa3e0000c43f0000a2410000e847000040480000064a000000ca9a3b
@@ -701,6 +726,11 @@ MonoBehaviour:
     m_LastClickedID: 22672
     m_ExpandedIDs: 000000009c2d0000b42e00000c300000e83500001a3a0000ae3c00002241000068450000e6460000664a0000b04b00002457000090570000fc590000845a0000ec5a0000e85b000000ca9a3b
 >>>>>>> parent of 87ef4d7a... Not Sure So Hopefully Doesn't Fuck All
+=======
+    m_SelectedIDs: fc580000
+    m_LastClickedID: 22780
+    m_ExpandedIDs: 00000000062b00007232000016340000d23900001c3c00002e3d0000ec3e000088440000e044000060460000045900002459000000ca9a3b
+>>>>>>> parent of 486fa60c... commit
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -729,10 +759,14 @@ MonoBehaviour:
     m_SelectedIDs: 
     m_LastClickedID: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_ExpandedIDs: 00000000362b00001e310000a2330000a435000008390000183c0000aa3e0000c43f0000a2410000e847000040480000064a0000
 =======
     m_ExpandedIDs: 000000009c2d0000b42e00000c300000e83500001a3a0000ae3c00002241000068450000e6460000664a0000b04b00002457000090570000fc590000845a0000ec5a0000e85b0000
 >>>>>>> parent of 87ef4d7a... Not Sure So Hopefully Doesn't Fuck All
+=======
+    m_ExpandedIDs: 00000000062b0000282d00002c2f0000463000007232000016340000d23900001c3c00002e3d0000ec3e0000e044000060460000
+>>>>>>> parent of 486fa60c... commit
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -784,7 +818,7 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
-    m_ScrollPosition: {x: 0, y: 898}
+    m_ScrollPosition: {x: 0, y: 0}
     m_GridSize: 64
   m_DirectoriesAreaWidth: 130
 --- !u!114 &18

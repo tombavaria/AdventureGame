@@ -96,10 +96,16 @@ public class PlayerController : MonoBehaviour
             // Talk to the animator
             myAnim.SetFloat("Speed", input.magnitude * speed);
         }
+
         // Move and rotate the player
         if (axes == RotationAxes.MouseXAndY)
         {
-            transform.Rotate(0, Input.GetAxis("Mouse X") * sensitivityX, 0);
+            float rotationX = transform.localEulerAngles.y + Input.GetAxis("Mouse X") * sensitivityX;
+
+            rotationY += Input.GetAxis("Mouse Y") * sensitivityY;
+            rotationY = Mathf.Clamp(rotationY, minimumY, maximumY);
+
+            transform.localEulerAngles = new Vector3(-rotationY, rotationX, 0);
         }
         else if (axes == RotationAxes.MouseX)
         {
